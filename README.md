@@ -1,3 +1,12 @@
+#######################################################
+
+This repository is used to store weights and codes for blood vessel segmentation in pathological images.
+
+Fine-tuning MedSAM’s code [finetune_2D_dataset](https://github.com/gy-xinchen/MedSAM-pathological-image-blood-vessel-segmentation/blob/main/finetune_2D_dataset.py). This code is used to fine-tune MedSAM weights from npz format files.
+
+The fine-tuned training weights can be obtained here. [finetuned-MedSAM](https://drive.google.com/drive/folders/1IAoTtVQ83p_YjB-VnY5i-x43i7VdX0E1)
+
+#######################################################
 # MedSAM
 This is the official repository for MedSAM: Segment Anything in Medical Images.
 
